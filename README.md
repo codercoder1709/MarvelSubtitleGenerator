@@ -4,7 +4,7 @@ Axios is a PyTorch-based transformer model trained from scratch on a dataset con
 
 ## Live Demo
 
-Experience the Avengers Story Generator live at: [https://axiosav.streamlit.app/](https://axiosav.streamlit.app/)
+Experience the Avengers Story Generator live at: [https://axiosav.streamlit.app/](https://marvelstorygenerator.streamlit.app/)
 
 ## Features
 
