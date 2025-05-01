@@ -50,7 +50,7 @@ You can use the application directly through the [live demo](https://axiosav.str
 
 ### Online Usage
 
-1. Visit the [Avengers Story Generator](https://axiosav.streamlit.app/).
+1. Visit the [Avengers Story Generator](https://marvelstorygenerator.streamlit.app/).
 2. Enter some starting text in the text area provided.
 3. Adjust the number of tokens you want to generate using the slider.
 4. Click the "Generate Text" button to see the generated dialogue.
